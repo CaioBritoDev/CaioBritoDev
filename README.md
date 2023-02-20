@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CaioBritoDev
-- 👀 I’m interested in Canvas of JS
-- 🌱 I’m currently learning Wix Velo Code
+- 👋 Hi, I’m @CaioBritoDev, I'm brazilian.
+- 👀 I’m interested in learn everything that I need to build my company, Olimpo Digital.
+- 🌱 I’m currently learning Front-End...
 
 <!---
 CaioBritoDev/CaioBritoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
