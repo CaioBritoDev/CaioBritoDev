@@ -1,26 +1,49 @@
-Hello, There 👋🏻
-I'm a University Student of Information Systems at USP 🇧🇷
+# 👋🏻 Hello! Welcome to my profile
 
-Here's a little bit of my Dev Journey:
- - 2015: First web site created at 9 years old, using Wix 🌐
- - 2018: First line of code -> "Hello, World!", using Python (Python Journey started because of Brazilian Teacher Guanabara 🖖🏻)
- - 2019: In this moment, I was learning Javascript, HTML and CSS. Started using Git Hub as well.
- - 2019: I've just created the website for my father's Enterprise (but using Wix for it)
- - Feb. 2021: Foundation of Olimpo Digital (My first business model), and reached about 20 fixed clients (Wix-Full)
- - Jun. 2021: Improving my Javascript skills to use in Wix Velo, improving the experience for my clients and getting the official certification of Wix Partner and Wix Dev
- - 2022: Working with Classes in Javascript, and some Linux Basics (Ubuntu)
- - 2023: Huge projects in Wix using Javascript with Velo (more than 30K lines of Javascript coded in Wix Projects). Skills learned: Consuming APIs, Payment Integration, NoSQL Databases
- - 2024: Approved in the University of São Paulo and dissolution of Olimpo Digital Enterprise (informal, because I was minor)
- - 1Q 2024: (No more Windows) Started using Linux Mint, and then moving to other distros: Kali (2 days XD), Ubuntu and Fedora (my current distro)
- - 1Q 2024: Learning Node.js, Express and building my first REST API
- - 1Q 2024: Learning C and R
- - 2Q 2024: Learning SQL, PostgreSQL and connections with Web Server
- - 3Q 2024: Learning React and Next.js
- - 3Q 2024: Approved in Síntese Júnior as Back-end Member
- - 1Q 2025: Consolidating my skills building REST APIs with Authentication and Authorization
- - 1Q 2025: Java classes to build SOLID principles 
- - 2Q 2025: Review of React and Tailwind
- - 2Q 2025: Working with Docker and Docker Compose
- - 2Q 2025: Foundation of Developz Enterprise (now, formal) to expand my first business idea beyond the Wix scope
- - 2Q 2025: Working in Cloud with Digital Ocean and configuring a Ubuntu Server in my VPC and VPS's
- - 3Q 2025: Target -> Back-end + DevOps skills to manage scalable projects.
+I am an Information Systems student at USP 🇧🇷, passionate about technology, web development, and automation. Here, I share a bit about my journey and growth as a developer.
+
+---
+
+## 🚀 My Development Journey
+
+Technology has been a part of my life since an early age. At 9 years old, I created my **first website** using Wix 🌐, marking the beginning of a path filled with learning, challenges, and achievements.
+
+### **2018: First Steps in Coding**
+Inspired by the Brazilian teacher Guanabara, I wrote my first line of code in Python 🐍. From that moment, I fully immersed myself in programming.
+
+### **2019–2021: Early Projects and Entrepreneurship**
+- Learned **JavaScript, HTML, and CSS**, and started using GitHub 💻.
+- Built a website for my father’s company 🏢.
+- In 2021, I founded **Olimpo Digital**, my first business, serving around 20 regular clients 🏆.
+- Improved my JavaScript skills for Wix Velo and earned official Wix Partner and Wix Dev certifications 🥇.
+
+### **2022–2023: Technical Growth**
+- Studied **JavaScript classes** and Linux basics (Ubuntu) 🐧.
+- Led major Wix projects, coding over 30,000 lines of JavaScript, integrating APIs, payment systems, and NoSQL databases 🔗.
+
+### **2024: New Horizons**
+- Admitted to the **University of São Paulo** 🎓 and informally closed Olimpo Digital.
+- Transitioned to Linux Mint, briefly tried Kali, then Ubuntu, and currently use Fedora 💾.
+- Started learning **Node.js, Express, C, and R** 🛠️.
+- Studied **SQL, PostgreSQL**, and web server integrations 🗄️.
+
+### **2024–2025: Consolidation and New Challenges**
+- Learning **React and Next.js** ⚛️.
+- Joined **Síntese Júnior** as a Back-end Member 👨🏻‍💻.
+- Consolidated skills in building REST APIs with authentication and authorization 🔒.
+- Attended Java classes focusing on SOLID principles ☕.
+- Deepened knowledge in **React, Tailwind CSS**, **Docker**, and **Docker Compose** 🐳.
+- Founded **Developz Enterprise** (now formal), expanding my business beyond Wix 🚀.
+- Started working with cloud infrastructure on Digital Ocean and configured Ubuntu servers in VPCs and VPSs ☁️.
+- Current goal: strengthen Back-end and DevOps skills to manage scalable projects 📈.
+
+---
+
+### 💡 About Me
+
+- Passionate about automation, data, and project management.
+- Always eager to learn new technologies and share knowledge.
+
+---
+
+Feel free to explore my repositories and connect!
